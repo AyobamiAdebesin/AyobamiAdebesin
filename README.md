@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 <p align="center"><b> I'm a Cloud Developer and an AI enthusiast with a special interest in Computer vision and Natural Language Processing . I love to solve complex problems in a simple way, I have a huge interest in building Cloud-powered A.I solutions. 
 I can work and complete projects with C, Python, Dart, Flutter, Tensorflow, OpenCV, Keras, PyTorch, Dli </b></p>
 
-- 🔭 I’m currently learning everything about Artificial Intelligence and Cloud Development.
-- 🌱 I'm a Math nerd and I enjoy Cryptography, Quantum Physics and General Relativity.
+- 🔭 I'm currently working on Deploying a Cloud-based A.I. solution.
+- 🌱 I’m currently learning everything about Artificial Intelligence and Cloud Development.
 - 👯 I’m looking to collaborate on Cloud Development, Mobile Development, Computer Vision, Natural Language Processing.
-
+- 💬 Ask me about Cloud Development, Mobile Development, Computer Vision, Natural Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/frosh_official),[LinkedIn](https://www.linkedin.com/in/ayobami-adebesin-114a3016a/)
-- ⚡ Fun fact: I love playing board games(Chess, Monopoly, Scrabble, etc.) and solving puzzles.
-
+- ⚡ Fun fact: 
+        1. I love playing board games(Chess, Monopoly, Scrabble, etc.) and solving puzzles.
+        2.  I'm a Math nerd and I enjoy Cryptography, Quantum Physics and General Relativity.
 #### Technologies and Tools
 
 <p>
