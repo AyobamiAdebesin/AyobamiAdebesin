@@ -31,12 +31,12 @@ I can work and complete projects with C, Python, Dart, Flutter, Tensorflow, Open
 #### Technologies and Tools
 
 <p>
-<img src="https://img.shields.io/badge/flutter-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/flutter-%230095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=pythton&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img src ="https://img.shields.io/badge/Dart-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Dart-%2307405e.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 #### Currently working at:
