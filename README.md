@@ -43,6 +43,8 @@ I can work and complete projects with C, Python, Dart, Flutter, Tensorflow, Open
 <img src="https://img.shields.io/badge/pytorch%20-%23121011.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql%20-%23039BE5.svg?&style=for-the-badge&logo=mysql"/>
 <img src ="https://img.shields.io/badge/django-%2307405e.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img src ="https://img.shields.io/badge/aws-%2307405e.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
+
 </p>
 
 #### Currently working at:
