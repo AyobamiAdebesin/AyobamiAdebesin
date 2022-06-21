@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on Deploying a Cloud-based A.I. solution.
 - 🌱 I’m currently learning everything about Artificial Intelligence and Cloud Development.
 - 👯 I’m looking to collaborate on Cloud Development, Computer Vision, Natural Language Processing.
-- 💬 Ask me about Cloud Development, Mobile Development, Computer Vision, Natural Language Processing.
+- 💬 Ask me about Cloud Development, Computer Vision, Natural Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/AyobamiOlaseni),[LinkedIn](https://www.linkedin.com/in/ayobami-adebesin-114a3016a/)
 - ⚡ Fun facts: 
 - 1. I love playing board games(Chess, Monopoly, Scrabble, etc.) and solving puzzles. 
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 #### Currently working at:
 - Software Engineering Student at [ALX-Holberton School](https://www.holbertonschool.com//)
 - Backend Developer @[Blackathon](https://blackathon.tech/)
+- Natural Language Processing Intern @[Tangible AI](https://tangibleai.com/)
+- Software Developer Intern @[AppZone](https://appzonegroup.com/)
 
 
 #### Volunteer Experience
