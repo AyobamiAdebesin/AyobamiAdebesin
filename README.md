@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 #### Currently working at:
 - Software Engineering Student at [ALX-Holberton School](https://www.holbertonschool.com//)
-- Backend Developer @[Blackathon](https://blackathon.tech/)
+- Backend Developer @[Blackathon](https://www.blackathon.tech/)
 - Natural Language Processing Intern @[Tangible AI](https://tangibleai.com/)
 - Software Developer Intern @[AppZone](https://appzonegroup.com/)
 
