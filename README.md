@@ -1,65 +1,19 @@
+<h1 align="center">Hi 👋, I'm Ayobami</h1>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayobamiadebesin&label=Profile%20views&color=0e75b6&style=flat" alt="ayobamiadebesin" /> </p>
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![profile](https://miro.medium.com/max/1400/0*We8Aye1G6wLXOCqu.jpg)
-
-
-<h1 align="center">Hi there 👋, I'm Ayobami</h1>
-
-<p align="center"><b> I'm a Cloud Developer and an AI enthusiast with a special interest in Computer vision and Natural Language Processing . I love to solve complex problems in a simple way, I have a huge interest in building Cloud-powered A.I solutions. I have tried to build a few projects in the past, but I'm always looking for new challenges to learn and grow. I can work and complete projects with C, Python, Dart, Flutter, Tensorflow, OpenCV, Keras, PyTorch, Django </b></p>
-
-- 🔭 I'm currently working on Deploying a Cloud-based A.I. solution.
-- 🌱 I’m currently learning everything about Artificial Intelligence and Cloud Development.
-- 👯 I’m looking to collaborate on Cloud Development, Computer Vision, Natural Language Processing.
-- 💬 Ask me about Cloud Development, Computer Vision, Natural Language Processing.
-- 📫 How to reach me: [Twitter](https://twitter.com/AyobamiOlaseni),[LinkedIn](https://www.linkedin.com/in/ayobami-adebesin-114a3016a/)
-- ⚡ Fun facts: 
-- 1. I love playing board games(Chess, Monopoly, Scrabble, etc.) and solving puzzles. 
-- 2.  I'm a Math nerd and I enjoy Cryptography, Quantum Physics and General Relativity.
-#### Technologies and Tools
-
-<p>
-<img src="https://img.shields.io/badge/flutter-%230095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img src ="https://img.shields.io/badge/Dart-%2307405e.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-%230095D5.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/tensorflow-%23ED8B00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/keras%20-%23F05033.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch%20-%23121011.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql%20-%23039BE5.svg?&style=for-the-badge&logo=mysql"/>
-<img src ="https://img.shields.io/badge/django-%2307405e.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-<img src ="https://img.shields.io/badge/aws-%2307405e.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ayobamiolaseni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayobamiolaseni" height="30" width="40" /></a>
 </p>
 
-#### Currently working at:
-- Software Engineering Student at [ALX-Holberton School](https://www.holbertonschool.com//)
-- Backend Developer @[Blackathon](https://www.blackathon.tech/)
-- Natural Language Processing Intern @[Tangible AI](https://tangibleai.com/)
-- Software Developer Intern @[AppZone](https://appzonegroup.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayobamiadebesin&show_icons=true&locale=en&layout=compact" alt="ayobamiadebesin" /></p>
 
-#### Volunteer Experience
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayobamiadebesin&show_icons=true&locale=en" alt="ayobamiadebesin" /></p>
 
-- Co-organizer Blackathon @[Blackathon](https://blackathon.tech/)
-- Organizer @[Fundametals of Artificial Intelligence](https://iretiayo.github.io/FAI_2020/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayobamiadebesin&" alt="ayobamiadebesin" /></p>
 
-
-Thanks for checking out my profile.
-
-![Visitor Count](https://profile-counter.glitch.me/AyobamiAdebesin/count.svg)
